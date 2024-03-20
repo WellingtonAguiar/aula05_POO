@@ -6,7 +6,8 @@ package aula05;
 
 /**
  *
- * @author ads2321036
+ * @author Wellington Aguiar
+ * FATEC Ferraz de Vasconcelos ADS2
  */
 public class Aula05 {
 
