@@ -15,7 +15,7 @@ public class Aula05 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World! 20-03-2024");
+        System.out.println("Hello World! 20-03-2024 12:20");
     }
     
 }
